@@ -1,7 +1,10 @@
+![12 003](https://user-images.githubusercontent.com/52453582/135727565-01d70793-e277-44dc-8433-19ef058a731a.jpeg)
+![12 004](https://user-images.githubusercontent.com/52453582/135727568-cd76df20-956d-402a-8e2c-a94de80a9586.jpeg)
+
+
 # DAO-Bonding
 an Aragon App to create bonding curves between DAOs </p>
  
-[![figma](https://user-images.githubusercontent.com/52453582/134105644-92379e2b-eb88-43c5-9eb5-7e3b8f1fc3f9.png)]() 
 [![discord](https://user-images.githubusercontent.com/52453582/134105526-58408c2f-e6df-422b-9e81-758b2387e3ed.png)](https://discord.gg/QZ6FCJaR4T)
 
 
